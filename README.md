@@ -55,20 +55,20 @@ I'm a passionate **Data Scientist** and **DevOps Engineer** dedicated to buildin
 
 ## 🔥 Featured Projects
 ### 1️⃣ **Real-time Analytics Platform for Business Intelligence**
-🔹 Description: A real-time analytics platform that processes and visualizes business data (e.g., sales, inventory). The platform will allow businesses to track KPIs and other metrics in real time, with predictive analytics to forecast trends.  
-🔹 Tech Stack: FastAPI, TensorFlow, Docker, AWS , D3.js
-🔹 Repo: [GitHub Link](#)  
+-🔹 Description: A real-time analytics platform that processes and visualizes business data (e.g., sales, inventory). The platform will allow businesses to track KPIs and other metrics in real time, with predictive analytics to forecast trends.  
+-🔹 Tech Stack: FastAPI, TensorFlow, Docker, AWS , D3.js
+-🔹 Repo: [GitHub Link](#)  
 
 ### 2️⃣ **Predictive Maintenance System for Manufacturing Equipment**
-🔹 Description:Develop a system that predicts equipment failures using IoT sensor data. The system will analyze performance trends and alert users when maintenance is needed, preventing unexpected breakdowns.
-🔹 Tech Stack: Python, Kubernetes, PostgreSQL  ,IoT sensors,Pandas, NumPy,AWS,Jenkins, GitLab CI 
-🔹 Repo: [GitHub Link](#)  
+-🔹 Description:Develop a system that predicts equipment failures using IoT sensor data. The system will analyze performance trends and alert users when maintenance is needed, preventing unexpected breakdowns.
+-🔹 Tech Stack: Python, Kubernetes, PostgreSQL  ,IoT sensors,Pandas, NumPy,AWS,Jenkins, GitLab CI 
+-🔹 Repo: [GitHub Link](#)  
 
 
 ### 3️⃣ **Automated Data Pipeline for Financial Reporting**
-🔹 Description:An automated data pipeline that extracts, transforms, and loads financial data from various sources into a data warehouse. The pipeline will generate financial reports and insights, reducing manual intervention and ensuring timely delivery
-🔹 Tech Stack: Python,TypeScript, Kubernetes, PostgreSQL  ,Apache Airflow ,Power BI, Tableau
-🔹 Repo: [GitHub Link](#)  
+-🔹 Description:An automated data pipeline that extracts, transforms, and loads financial data from various sources into a data warehouse. The pipeline will generate financial reports and insights, reducing manual intervention and ensuring timely delivery
+-🔹 Tech Stack: Python,TypeScript, Kubernetes, PostgreSQL  ,Apache Airflow ,Power BI, Tableau
+-🔹 Repo: [GitHub Link](#)  
 
 ---
 
