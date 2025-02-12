@@ -43,6 +43,7 @@ I'm a passionate **Data Scientist** and **DevOps Engineer** dedicated to buildin
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
 ![Brainfuck](https://img.shields.io/badge/Brainfuck-000000?style=for-the-badge&logoColor=white)  
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
