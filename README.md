@@ -45,8 +45,9 @@ I'm a passionate **Data Scientist** and **DevOps Engineer** dedicated to buildin
 ![Brainfuck](https://img.shields.io/badge/Brainfuck-000000?style=for-the-badge&logoColor=white)  
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 
 ### **DevOps & Cloud**
